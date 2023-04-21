@@ -237,6 +237,7 @@ p {
 /* Skill Section */
 #Skills {
   background-color: #FBF8F1;
+  height: 100vh;
 }
 
 .skills .box-container {
@@ -276,6 +277,7 @@ p {
 /* Education Section */
 #Education {
   background-color: #CCF3EE;
+  height: 100vh;
 }
 
 .education .box-container {
